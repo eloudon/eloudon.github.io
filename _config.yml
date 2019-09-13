@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: loudon.eric@gmail.com
 copyright_name: Eric Loudon
 description: > # this means to ignore newlines until "baseurl:"
-  It does it's job
+  It does it's job. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  eloudon
