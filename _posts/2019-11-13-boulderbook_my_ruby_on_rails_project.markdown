@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "BoulderBook my Ruby on Rails project!"
-date:       2019-11-13 12:28:06 +0000
+title:      "My Rails Project"
+date:       2019-11-13 07:28:07 -0500
 permalink:  boulderbook_my_ruby_on_rails_project
 ---
 
